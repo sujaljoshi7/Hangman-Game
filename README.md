@@ -18,7 +18,7 @@ Hangman is a word-guessing game where the goal is to guess the word before you r
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/hangman-game.git
+    git clone https://github.com/sujaljoshi7/Hangman-Game.git
     cd hangman-game
     ```
 

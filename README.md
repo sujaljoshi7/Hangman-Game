@@ -10,6 +10,6 @@
 
 ###
 
-<p align="center">User has to guess a work which was guessed by the computer.<br>Users enters random letters and it frames a word.<br>If the user guesses wrong letter than he loses 1 life, there are total of 6 life.</p>
+<p align="left">User has to guess a work which was guessed by the computer.<br>Users enters random letters and it frames a word.<br>If the user guesses wrong letter than he loses 1 life, there are total of 6 life.</p>
 
 ###

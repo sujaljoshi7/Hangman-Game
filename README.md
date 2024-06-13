@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">It is a game created using python programming language.<br>I created a list of works and selected a random word using random module in python.<br>I have also included the ascii art to make the game more presentable.</p>
+<p align="left">It is a game created using python programming language.<br>I created a list of works and selected a random word using random module in python.<br>I have also included the ascii art to make the game more presentable.</p>
 
 ###
 
